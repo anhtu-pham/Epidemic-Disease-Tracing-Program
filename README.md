@@ -1,1 +1,1 @@
-# Graph-based-Epidemic-Tracing-Program
+# Graph-based Epidemic Disease Tracing Program
